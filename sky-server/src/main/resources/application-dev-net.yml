@@ -8,6 +8,6 @@ sky:
     password: root
   alioss:
     endpoint: oss-cn-shanghai.aliyuncs.com
-    access-key-id: LTAI5tNV2QWYMi2ue9DpBiP7
-    access-key-secret: mDjaP42A0D2ebXnWVLK6WDqcQYIpsE
-    bucket-name: tiando
+    access-key-id: xxx
+    access-key-secret: xxx
+    bucket-name: xxx
